@@ -1,6 +1,7 @@
 # MobileAutomationUsingAppium
 Boltfood android app automation.
 Automated the andoird app using appium and POM strategy.
+https://github.com/rahuleesti/MobileAutomationUsingAppium/tree/master
 Includes test cases for:-
  1. User Registration flow.
  2. Setting Up location permission at home page.
